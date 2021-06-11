@@ -1,2 +1,2 @@
-# R-Programming-ggplot
-Ggplot
+# Polynomial Regression using ggplot
+
