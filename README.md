@@ -4,4 +4,5 @@ Polynomial Regression is statistical analysis methods that aim to model relation
 It is used in most difficult regressions. It helps in improving the model very close to the data by increasing the order of the relationship between the dependent and independent variable. 
 
 
+
 Formula for Polynomial Regression is 𝑦=𝛽+𝛽𝑥+𝛽𝑥2+ε
